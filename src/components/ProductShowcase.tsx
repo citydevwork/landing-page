@@ -30,7 +30,7 @@ export function ProductShowcase() {
               <p className="text-slate-600 mb-8 leading-relaxed font-light text-lg flex-1">
                 Premium professional venue spaces designed for corporate events, seminars, and high-level business gatherings. Located strategically with top-notch modern facilities.
               </p>
-              <a href="https://wa.me/628112971118" className="inline-flex items-center justify-center w-full py-4 rounded-xl bg-slate-50 text-blue-600 font-semibold hover:bg-blue-600 hover:text-white transition-all duration-300 group-hover:shadow-md">
+              <a href="https://wa.me/628112971118" target="_blank" className="inline-flex items-center justify-center w-full py-4 rounded-xl bg-slate-50 text-blue-600 font-semibold hover:bg-blue-600 hover:text-white transition-all duration-300 group-hover:shadow-md">
                 Inquire Now <svg className="w-5 h-5 ml-2 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
               </a>
             </div>
@@ -53,7 +53,7 @@ export function ProductShowcase() {
               <p className="text-slate-600 mb-8 leading-relaxed font-light text-lg flex-1">
                 Tailored Enterprise Resource Planning solutions, perfectly engineered for complex operational needs like our custom deployment for Sekolah Musik Indonesia.
               </p>
-              <a href="https://wa.me/628112971118" className="inline-flex items-center justify-center w-full py-4 rounded-xl bg-slate-50 text-indigo-600 font-semibold hover:bg-indigo-600 hover:text-white transition-all duration-300 group-hover:shadow-md">
+              <a href="https://wa.me/628112971118" target="_blank" className="inline-flex items-center justify-center w-full py-4 rounded-xl bg-slate-50 text-indigo-600 font-semibold hover:bg-indigo-600 hover:text-white transition-all duration-300 group-hover:shadow-md">
                 Learn More <svg className="w-5 h-5 ml-2 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
               </a>
             </div>
